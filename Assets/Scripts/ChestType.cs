@@ -1,5 +1,6 @@
-public enum ChestTypes
+public enum ChestType
 {
+    None,
     Wooden,
     Golden,
     Epic,
