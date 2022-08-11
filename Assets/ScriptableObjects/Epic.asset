@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b138190181ef3046a129e18056ffd39, type: 3}
   m_Name: Epic
   m_EditorClassIdentifier: 
-  ChestName: Wooden
+  ChestName: Epic
   ChestSprite: {fileID: 21300000, guid: dd5abb34269bc8b4bb4126fc7930061e, type: 3}
   UnlockDuration: 10
   MinCoins: 250
